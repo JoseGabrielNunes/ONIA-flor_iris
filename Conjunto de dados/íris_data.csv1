@@ -1,9 +1,0 @@
-# Tabela de Dados sobre a Flor Íris
-
-| Espécie               | Cor     | Altura Mínima (cm) | Altura Máxima (cm) | Popularidade (Anos 70) | Popularidade (Anos 80) | Popularidade (Anos 90) | Popularidade (Anos 2000) | Popularidade (Anos 2010) |
-|-----------------------|---------|--------------------|--------------------|------------------------|------------------------|------------------------|--------------------------|--------------------------|
-| Íris Germânica        | Roxo   | 60                 | 90                 | 30%                    | 35%                    | 40%                    | 45%                      | 50%                      |
-| Íris Japonesa         | Azul   | 30                 | 50                 | 20%                    | 25%                    | 30%                    | 40%                      | 45%                      |
-| Íris Siberiana        | Azul   | 50                 | 90                 | 15%                    | 20%                    | 25%                    | 35%                      | 40%                      |
-| Íris do Coração de Ouro| Amarelo| 90                 | 100                | 10%                    | 15%                    | 20%                    | 30%                      | 35%                      |
-| Íris Holandesa        | Branco | 40                 | 70                 | 25%                    | 30%                    | 35%                    | 40%                      | 45%                      |
