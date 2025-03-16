@@ -2,7 +2,6 @@
 
 A **Íris** é uma planta da família Iridaceae, famosa por suas flores vibrantes e diversificadas. Seu nome vem da deusa grega do arco-íris, Iris, que simbolizava a ligação entre os deuses e os mortais. As flores da Íris possuem cores impressionantes, como roxo, azul, amarelo, branco e até lilás, sendo um símbolo de fé, sabedoria e inspiração.
 
-![Flor Íris](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Iris_germanica_3.jpg/600px-Iris_germanica_3.jpg)
 
 ## Características
 
